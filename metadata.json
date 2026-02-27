@@ -1,0 +1,5 @@
+{
+  "name": "Lanka Tax Calc",
+  "description": "A precise calculator for Sri Lankan SSCL and VAT taxes, supporting both addition and removal of taxes based on industry-specific liable turnover rates.",
+  "requestFramePermissions": []
+}
